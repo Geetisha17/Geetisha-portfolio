@@ -21,7 +21,7 @@ function Projects() {
               title="Real-Time Code Editor"
               description="A collaborative real-time code editor with live preview and multi-user sync. Built with React, Node.js, and WebSockets, deployed with AWS. Features syntax highlighting, multi-language support, and session persistence."
               ghLink="https://github.com/Geetisha17/Realtime-Code-Editor"
-              demoLink="http://realtime-code-editor-application.s3-website-us-east-1.amazonaws.com/"
+              demoLink="https://code-sync-zeta-five.vercel.app/"
             />
           </Col>
 
@@ -31,7 +31,7 @@ function Projects() {
               title="AI Chatbot Assistant"
               description="Conversational AI chatbot using Node.js, OpenAI API, Firebase, and Docker. Features real-time backend, user authentication, chat history, and multilingual responses. Integrated with Redis for performance."
               ghLink="https://github.com/Geetisha17/synChat"
-              demoLink="http://ai-chat-bot-application.s3-website-us-east-1.amazonaws.com/"
+              demoLink="https://syn-chat.vercel.app/"
             />
           </Col>
 
